@@ -67,7 +67,7 @@ Dependency Injection
 
 ⚙️ How to Run the Project
 1. Clone the repository
-git clone https://github.com/USERNAME/Store_Management.git
+git clone https://github.com/sohibadotnetdev-arch/Store_Management.git
 
 2. Restore dependencies
 dotnet restore
